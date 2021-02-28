@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/musicmoods/static/css/main.c90f67fe.chunk.css",
+    "main.js": "/musicmoods/static/js/main.d48e1609.chunk.js",
+    "main.js.map": "/musicmoods/static/js/main.d48e1609.chunk.js.map",
+    "runtime-main.js": "/musicmoods/static/js/runtime-main.37fb0f06.js",
+    "runtime-main.js.map": "/musicmoods/static/js/runtime-main.37fb0f06.js.map",
+    "static/js/2.c6cc0d48.chunk.js": "/musicmoods/static/js/2.c6cc0d48.chunk.js",
+    "static/js/2.c6cc0d48.chunk.js.map": "/musicmoods/static/js/2.c6cc0d48.chunk.js.map",
+    "static/js/3.2093bcea.chunk.js": "/musicmoods/static/js/3.2093bcea.chunk.js",
+    "static/js/3.2093bcea.chunk.js.map": "/musicmoods/static/js/3.2093bcea.chunk.js.map",
+    "index.html": "/musicmoods/index.html",
+    "static/css/main.c90f67fe.chunk.css.map": "/musicmoods/static/css/main.c90f67fe.chunk.css.map",
+    "static/js/2.c6cc0d48.chunk.js.LICENSE.txt": "/musicmoods/static/js/2.c6cc0d48.chunk.js.LICENSE.txt",
+    "static/media/music.3ff06d34.jpg": "/musicmoods/static/media/music.3ff06d34.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37fb0f06.js",
+    "static/js/2.c6cc0d48.chunk.js",
+    "static/css/main.c90f67fe.chunk.css",
+    "static/js/main.d48e1609.chunk.js"
+  ]
+}
